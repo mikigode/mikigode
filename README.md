@@ -7,7 +7,7 @@ Mikiyas Godana 👋
 - 👯 I’m looking to collaborate on frontend development.
 - 🤔 I’m looking for help with python.
 - 💬 Ask me about html and any tech related stuff.
-- 📫 How to reach me: Telegram @mikigode
+- 📫 How to reach me: [Telegram @mikigode](https://t.me/mikigode)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: show my web
 -->
